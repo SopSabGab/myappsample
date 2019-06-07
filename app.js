@@ -1,0 +1,1 @@
+consule.log('Hello');
